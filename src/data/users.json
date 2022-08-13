@@ -1,0 +1,62 @@
+[
+    {
+        "fname": "Jane",
+        "lname": "Smith",
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "fname": "Max",
+        "lname": "Jackson",
+        "city": "New York",
+        "country": "USA"
+    },
+    {
+        "fname": "Justin",
+        "lname": "Brown",
+        "city": "London",
+        "country": "UK"
+    },
+    {
+        "fname": "Michael",
+        "lname": "Moore",
+        "city": "Tokyo",
+        "country": "japan"
+    },
+    {
+        "fname": "Bob",
+        "lname": "Williams",
+        "city": "Mumbai",
+        "country": "India"
+    },
+    {
+        "fname": "Toby",
+        "lname": "Simpson",
+        "city": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "fname": "John",
+        "lname": "Doe",
+        "city": "some",
+        "country": "place"
+    },
+    {
+        "fname": "Adam",
+        "lname": "Brown",
+        "city": "Paris",
+        "country": "France"
+    },
+    {
+        "fname": "Dave",
+        "lname": "Smith",
+        "city": "Calgary",
+        "country": "Canada"
+    },
+    {
+        "fname": "Kim",
+        "lname": "Lee",
+        "city": "Sydney",
+        "country": "Australia"
+    }
+]
